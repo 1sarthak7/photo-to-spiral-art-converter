@@ -10,7 +10,6 @@
   <a href="#"><img src="https://img.shields.io/github/stars/1sarthak7/photo-to-spiral-art-converter?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/github/forks/1sarthak7/photo-to-spiral-art-converter?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/github/issues/1sarthak7/photo-to-spiral-art-converter?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/github/license/1sarthak7/photo-to-spiral-art-converter?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
