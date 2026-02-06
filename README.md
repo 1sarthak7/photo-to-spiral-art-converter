@@ -4,14 +4,13 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pygame-Interactive-green?style=for-the-badge&logo=pygame" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Generative-Art-purple?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Portfolio%20Ready-black?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/1sarthak7/photo-to-spiral-art-converter?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/github/forks/1sarthak7/photo-to-spiral-art-converter?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/github/issues/1sarthak7/photo-to-spiral-art-converter?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/github/license/1sarthak7/photo-to-spiral-art-converter?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
