@@ -147,10 +147,7 @@ Student At MIT ADT
 
 ## License
 
-This project is intended for educational, academic, and portfolio use.
-
-Proper attribution is appreciated when using or modifying this work.
-
+This project is intended for education
 ---
 
 ## Support the Project
