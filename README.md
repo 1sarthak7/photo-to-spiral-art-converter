@@ -1,4 +1,4 @@
-#                                               One-Stroke Spiral Line Art (Pygame)
+#Photo to spiral art generator 
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" /></a>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  A high-performance generative art system that reconstructs an input image using a single continuous spiral line.<br/>
+  A high performance generative art system that reconstructs an input image using a single continuous spiral line.<br/>
   Built with Python and Pygame for speed, precision, and live visual feedback.
 </p>
 
@@ -23,7 +23,7 @@
 
 ## Project Overview
 
-This project transforms a static input image into a one-stroke spiral line artwork. Instead of rendering pixels or dots, the system draws one continuous polyline whose thickness varies based on image luminance.
+This project transforms a static input image into a one stroke spiral line artwork. Instead of rendering pixels or dots, the system draws one continuous polyline whose thickness varies based on image luminance.
 
 Dark regions of the image generate denser, thicker strokes, while lighter regions produce thinner lines. The artwork is generated live on screen, allowing viewers to observe the full creation process in real time.
 
@@ -49,8 +49,6 @@ The result is a visually striking combination of algorithmic geometry, image pro
 4. At each point along the spiral, the corresponding image brightness is sampled
 5. Stroke thickness is dynamically adjusted based on luminance
 6. The polyline is rendered continuously until the full image is reconstructed
-
-This approach is inspired by pen-plotter art and engraving-style illustration techniques used in contemporary generative art.
 
 ---
 
@@ -145,7 +143,7 @@ STROKE_SCALE = 6
 ## Author
 
 Sarthak Bhopale
-Aspiring Engineer and Creative Developer
+Student At MIT ADT
 
 ---
 
@@ -167,4 +165,3 @@ If you find this project useful or inspiring:
 
 ---
 
-Made with a focus on precision, mathematics, and visual clarity.
