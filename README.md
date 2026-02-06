@@ -1,4 +1,4 @@
-##Photo to spiral art generator 
+<p align="centre"> ##Photo to spiral art generator </p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" /></a>
